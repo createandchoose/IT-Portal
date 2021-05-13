@@ -68,11 +68,11 @@ header {
 }
 
 .main {
-    width: 1360px;
+    width: 1330px;
     margin: 40px auto;
 }
 
-.button {
+.buttons {
     display: inline-block;
     background-color: #0077ff;
     font-weight: 1000;
@@ -85,7 +85,16 @@ header {
     bottom: 16px;
 }
 
-.button:hover {
+.buttons:hover {
     background-color: #2ba0ff;
     transition: 0.2s;
+}
+
+.land {
+    width: 1000px;
+    margin: 500px auto;
+}
+
+.land-header {
+    font-size: 24px;
 }
