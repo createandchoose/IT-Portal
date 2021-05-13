@@ -1,14 +1,14 @@
 /* main */
 @font-face {
-    font-family: 'opensans';
-    src: url(/fonts/OpenSans/OpenSans-Regular.ttf);
+    font-family: 'montserrat';
+    src: url(/fonts/Montserrat-Regular.ttf);
 }
 
 body {
     margin:0;
     color: #ffffff;
-    background-color: #171717;
-    font-family: opensans;
+    background-color: #131212;
+    font-family: montserrat;
     font-size: 14px;
 }
 
@@ -20,9 +20,10 @@ a {
 /* header */
 header {
     overflow: hidden;
-    background-color: #1F1F1F;
+    margin-top: 20px;
+    /* background-color: #1F1F1F;
     filter: drop-shadow(4px 4px 16px rgba(0, 0, 0, 0.20));
-    transition: 0.2s;
+    transition: 0.2s; */
 }
 
 .topnav {
@@ -44,9 +45,10 @@ header {
 .topnav a:hover {
     border-image-slice: 1;
     transition: 0.2s;
-    color: aqua;
+    color: #0075FF;
 }
 
 .right {
     float: right;
+    line-height: 40px;
 }
