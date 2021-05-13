@@ -74,15 +74,18 @@ header {
 
 .button {
     display: inline-block;
-    position:absolute;
     background-color: #0077ff;
-    font-weight: 700;
+    font-weight: 1000;
     color: #ffffff;
-    padding: 5.5px;
+    padding: 10.5px;
     padding-left: 20px;
     padding-right: 20px;
     transition: 0.2s;
-    
     right: 16px;
     bottom: 16px;
-    }
+}
+
+.button:hover {
+    background-color: #2ba0ff;
+    transition: 0.2s;
+}
