@@ -1,0 +1,48 @@
+/* main */
+@font-face {
+    font-family: 'opensans';
+    src: url(/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+body {
+    margin:0;
+    color: #ffffff;
+    background-color: #171717;
+    font-family: opensans;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* header */
+header {
+    overflow: hidden;
+    background-color: #1F1F1F;
+    filter: drop-shadow(4px 4px 16px rgba(0, 0, 0, 0.20));
+    transition: 0.2s;
+}
+
+.topnav {
+    max-width: 1360px;
+    margin: auto;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14.5px 16px;
+    font-size: 14px;
+    border-bottom: 2px solid transparent;
+    transition: 0.2s;
+}
+
+.topnav a:hover {
+    border-image-slice: 1;
+    transition: 0.2s;
+    color: aqua;
+}
