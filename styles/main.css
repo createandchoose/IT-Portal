@@ -65,6 +65,16 @@ header {
 
 .main-image {
     float: right;
+    position: relative;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes example {
+    0%   {top:0px;}
+    50%  {top:20px;}
+    100% {top:0px;}
 }
 
 .main {
@@ -98,3 +108,4 @@ header {
 .land-header {
     font-size: 24px;
 }
+
