@@ -3,3 +3,5 @@
 <img scr="./images/prew.png">
 
 ![Иллюстрация к проекту](https://github.com/createandchoose/IT-Portal/blob/main/images/prew.png)
+
+USED: https://fontawesome.com
