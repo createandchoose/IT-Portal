@@ -102,10 +102,49 @@ header {
 
 .land {
     width: 1000px;
-    margin: 500px auto;
+    margin: 428px auto;
 }
 
 .land-header {
     font-size: 24px;
 }
 
+.fa-check-circle {
+    color: #0077ff;
+    transition: 0.2s;
+}
+
+.fa-check-circle:hover {
+    color: #2ba0ff;
+    transition: 0.2s;
+}
+
+#icon1 {
+    position: absolute;
+    right: 650px;
+    top:-60px;
+    animation-name: exampleit;
+    animation-duration: 2s;
+    animation-iteration-count:infinite;
+}
+
+#icon2 {
+    position: absolute;
+    right: 150px;
+    top: 0px;
+    animation-name: exampleitp;
+    animation-duration: 2s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes exampleit {
+    0%   {top:0px;}
+    50%  {top:20px;}
+    100% {top:0px;}
+}
+
+@keyframes exampleitp {
+    0%   {top:0px;}
+    50%  {top:20px;}
+    100% {top:0px;}
+}
