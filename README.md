@@ -7,9 +7,8 @@
 
 IT-Portal выпущен под лицензией MIT License, подробности см. в файле ЛИЦЕНЗИИ.
 
-
 ## License
 
-itch is released under the MIT License, see the [LICENSE][] file for details.
+IT-Portal выпущен под лицензией MIT License, подробности см. в файле [ЛИЦЕНЗИИ][].
 
-[LICENSE]: LICENSE
+[LICENSE]: ЛИЦЕНЗИИ
