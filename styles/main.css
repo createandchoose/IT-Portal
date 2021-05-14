@@ -148,3 +148,7 @@ header {
     50%  {top:20px;}
     100% {top:0px;}
 }
+.colortext {
+    color: #ff0000;
+   }
+  
