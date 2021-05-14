@@ -137,7 +137,7 @@ header {
     animation-iteration-count:infinite;
 }
 
-@keyframes exampleit {
+/* @keyframes exampleit {
     0%   {top:0px;}
     50%  {top:20px;}
     100% {top:0px;}
@@ -147,8 +147,114 @@ header {
     0%   {top:0px;}
     50%  {top:20px;}
     100% {top:0px;}
+} */
+
+
+.register-box {
+    width: 1065px;
+    height: 600px;
+    margin: auto;
+    background-color: #1D1D1D;
+    margin-top: 40px;
 }
-.colortext {
-    color: #ff0000;
-   }
-  
+
+.left-box {
+    width: 500px;
+    height: 600px;
+    background-color: #0075FF;
+}
+
+.right-box {
+    position: fixed;
+    top: 23%;
+    left: 52%;
+}
+
+.regh1 {
+    font-size: 24px;
+    font-weight: 1000;
+}
+.regh2 {
+    color: #979797;
+    width: 350px;
+}
+
+.piz {
+	width: 300px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+    color: #979797;
+	border: 1px solid #7C7C7C;
+	background: #1D1D1D;
+	/* border-radius: 5px; */
+    margin-top: 10px;
+    transition: 0.2s;
+}
+
+.piz:hover {
+	border: 1px solid #2ba0ff;
+    transition: 0.2s;
+}
+
+.dic {
+  border-color: #0b76ef;
+  background-color: #0b76ef;
+}
+
+
+.buttonss {
+    display: inline-block;
+    background-color: #0077ff;
+    font-weight: 1000;
+    color: #ffffff;
+    padding: 10.5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: 0.2s;
+    right: 16px;
+    bottom: 16px;
+    text-align: center;
+}
+
+.buttonss:hover {
+    background-color: #2ba0ff;
+    transition: 0.2s;
+}
+
+.cheche  {
+    color: #979797;
+}
+
+.prof-card {
+    width: 1065px;
+    background-color: #1D1D1D;
+    height: 800px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    padding: 40px;
+    padding-left: 80px;
+    
+}
+
+.profname {
+    font-size: 24px;
+width: 300px;
+}
+
+.profstat p {
+    color: #979797;
+    width: 450px;
+}
+
+.profinfo {
+    position: relative;
+    left: 200px;
+    top: -130px;
+}
+
+.profsett {
+    position: relative;
+    left: 815px;
+    top: -220px;
+}
