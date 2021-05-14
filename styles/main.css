@@ -258,3 +258,42 @@ width: 300px;
     left: 815px;
     top: -220px;
 }
+
+.orderbox {
+    width: 1065px;
+    background-color: #1D1D1D;
+    height: 800px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    padding: 40px;
+    padding-left: 80px;
+}
+
+.regh2s {
+    color: #979797;
+    width: 350px;
+    background-color: #282828;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+#regus {
+    color: #0075FF;
+    text-align: center;
+}
+
+#regu {
+    text-align: center;
+}
+
+.filepin {
+    text-decoration-line: underline;
+}
+
+.filepin img {
+    position: relative;
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+}
