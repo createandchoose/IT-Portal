@@ -12,9 +12,13 @@
 ## Screenshots
 
 ![КАРТИНКА](https://github.com/createandchoose/IT-Portal/blob/main/images/prew.png)
+
 ![КАРТИНКА1](https://github.com/createandchoose/IT-Portal/blob/main/images/1.png)
+
 ![КАРТИНКА1](https://github.com/createandchoose/IT-Portal/blob/main/images/2.png)
+
 ![КАРТИНКА2](https://github.com/createandchoose/IT-Portal/blob/main/images/3.png)
+
 ![КАРТИНКА3](https://github.com/createandchoose/IT-Portal/blob/main/images/4.png)
 
 ## License
