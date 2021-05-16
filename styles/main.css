@@ -175,6 +175,7 @@ header {
     width: 500px;
     height: 600px;
     background-color: #0075FF;
+    background-image: url(/images/fon.png);
 }
 
 .right-box {
@@ -189,7 +190,7 @@ header {
 }
 .regh2 {
     color: #979797;
-    width: 350px;
+    width: 390px;
 }
 
 .piz {
@@ -285,7 +286,7 @@ width: 300px;
 
 .regh2s {
     color: #979797;
-    width: 350px;
+    width: 290px;
     background-color: #282828;
     padding: 10px;
     border-radius: 6px;
@@ -445,3 +446,6 @@ section {
 
 
 
+.lelelelepe  {
+    padding-left: 375px;
+}
